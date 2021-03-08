@@ -1,0 +1,5 @@
+(2513, 'whole milk')
+(1903, 'other vegetables')
+(1809, 'rolls/buns')
+(1715, 'soda')
+(1372, 'yogurt')
