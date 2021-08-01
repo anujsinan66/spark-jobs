@@ -6,6 +6,8 @@ for data in csvRdd:
        print('hello')
        print('hello2')
        print('hello6')
+       print('hello6')
+       print('hello6')
 
 
 
