@@ -5,6 +5,7 @@ for data in csvRdd:
        print(data)
        print(data)
        print('hello')
+       print(data)
 
 
 
