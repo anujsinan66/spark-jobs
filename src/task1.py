@@ -3,5 +3,6 @@ spark:SparkSession = SparkSession.builder.master("local[*]").appName("task1").ge
 csvRdd = spark.sparkContext.textFile("../input/groceries.csv").map(lambda line: line.split(",")).take(5)
 for data in csvRdd:
        print(data)
+       print('hello')
 
 
