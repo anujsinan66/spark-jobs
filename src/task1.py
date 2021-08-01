@@ -4,5 +4,6 @@ csvRdd = spark.sparkContext.textFile("../input/groceries.csv").map(lambda line: 
 for data in csvRdd:
        print(data)
        print('hello')
+       print('hello2')
 
 
